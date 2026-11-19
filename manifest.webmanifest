@@ -1,0 +1,12 @@
+{
+  "name": "ORBIT — Solar System Explorer",
+  "short_name": "ORBIT",
+  "description": "An interactive solar system explorer",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050711",
+  "theme_color": "#050711",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
